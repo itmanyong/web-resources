@@ -1,0 +1,22 @@
+{
+  "name": "react-resources",
+  "version": "1.0.0",
+  "description": "React资源收集",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "keywords": [
+    "React",
+    "react",
+    "vite",
+    "react-resources"
+  ],
+  "author": "itmanyong",
+  "license": "ISC",
+  "dependencies": {
+    "vitepress": "1.0.0-alpha.29"
+  }
+}
