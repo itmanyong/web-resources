@@ -12,19 +12,21 @@ title: 介绍
 
 :::
 
-## 平台支持&兼容性标识
+## 平台支持&兼容性&符号标识
 
-<LogoVue2 />
-<LogoVue3 />
-<LogoReact />
-<LogoVite />
-<LogoJS />
-<LogoWeApp />
-<LogoApp />
-<LogoPC />
-<LogoSSR />
-<LogoWebPack />
+::: tip 符号对照表
 
-::: tip 说明
-|
+| 图标            | 释义        | 图标               | 释义   |
+| --------------- | ----------- | ------------------ | ------ |
+| <LogoVue2 />    | Vue2        | :heavy_check_mark: | 支持   |
+| <LogoVue3 />    | Vue3        | :x:                | 不支持 |
+| <LogoReact />   | React       | :question:         | 不确定 |
+| <LogoApp />     | APP         |                    |        |
+| <LogoSSR />     | SSR         |                    |        |
+| <LogoJS />      | 原生 JS     |                    |        |
+| <LogoWeApp />   | 小程序平台  |                    |        |
+| <LogoPC />      | PC 桌面程序 |                    |        |
+| <LogoVite />    | Vite        |                    |        |
+| <LogoWebPack /> | Webpack     |                    |        |
+
 :::

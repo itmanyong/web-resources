@@ -6,7 +6,8 @@
   "scripts": {
     "docs:dev": "vitepress dev docs --host",
     "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs"
+    "docs:serve": "vitepress serve docs",
+    "deploy-gh": "pnpm docs:build && bash deploy-gh.sh"
   },
   "keywords": [
     "React",
@@ -29,8 +30,16 @@
     "resources"
   ],
   "author": "itmanyong",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "vitepress": "1.0.0-alpha.29"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itmanyong/web-resources.git"
+  },
+  "bugs": {
+    "url": "https://github.com/itmanyong/web-resources/issues"
+  },
+  "homepage": "https://github.com/itmanyong/web-resources#readme"
 }
