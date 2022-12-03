@@ -20,7 +20,7 @@ export default {
         },
     },
     setup({ name, starts, version }) {
-        const nameId = name.toLowerCase();
+        const nameId = name?.toLowerCase()||'';
         return {
             nameId,
             startsSrc: `https://img.shields.io/github/stars/${starts}?style=social`,

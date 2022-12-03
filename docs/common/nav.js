@@ -12,7 +12,7 @@ const nav = [
         path: '/platform/framework',
         items: [
             {
-                text: '单页面SPA',
+                text: 'SPA&传统',
                 link: '/platform/framework/spa',
             },
             {
@@ -36,8 +36,8 @@ const nav = [
                 link: '/platform/framework/app',
             },
             {
-                text: 'NODEJS',
-                link: '/platform/framework/nodejs'
+                text: '服务端',
+                link: '/platform/framework/server'
             },
             {
                 text: '微前端',
@@ -85,6 +85,10 @@ const nav = [
                 text: '纯样式库',
                 link: '/platform/component/style',
             },
+            {
+                text: '功能库',
+                link: '/platform/component/function',
+            }
         ],
     },
     {
@@ -124,6 +128,10 @@ const nav = [
             {
                 text: '开发工具',
                 link: '/platform/tool/dev',
+            },
+            {
+                text: '构建工具',
+                link: '/platform/tool/build',
             },
             {
                 text: '在线快捷工具',
