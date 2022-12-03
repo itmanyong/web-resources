@@ -26,3 +26,15 @@
         }
     }
 }
+
+// 针对页面顶部header内容区域的样式定制
+.VPNav {
+    .container {
+        .title {
+            background             : var(--vp-home-hero-name-background);
+            -webkit-background-clip: text;
+            background-clip        : text;
+            -webkit-text-fill-color: var(--vp-home-hero-name-color);
+        }
+    }
+}
