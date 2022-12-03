@@ -25,5 +25,6 @@ git commit -m 'deploy'
 # 把上面的 <itmanyong> 换成你自己的 Github 用户名，<web-resources> 换成仓库名
 
 git push git@github.com:itmanyong/web-resources.git master:gh-pages
+git push git@github.com:itmanyong/web-resources.git master:gh-pages
 
 cd -
