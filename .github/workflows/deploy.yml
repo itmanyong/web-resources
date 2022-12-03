@@ -1,22 +1,22 @@
 # 任务名
-name: Build and Deploy
-# 触发条件
+name: build and deploy
+# 触发条件,可配置多个条件触发
 on:
     push: # push操作触发
-        branches: # 指定触发push的分支
+        branches: # 指定触发push的分支,可配置多个
             - master # master分支进行push的时候
-# 执行的工作任务
+# 执行的工作任务,可配置多个任务
 jobs:
     # 任务名
-    build-and-deploy:
+    build--and-publish-gh-pages: # 构建并发布到gh-pages
         # 指定任务运行环境
         runs-on: ubuntu-latest
-        # 运行步骤
+        # 执行步骤
         steps:
-              # 第一步:检出代码
+            # 第一步:检出代码
             - name: Checkout 🛎️
               uses: actions/checkout@master # 使用别人的库完成操作 https://github.com/actions/checkout
-              # 第二步:安装环境依赖+构建
+              # 第二步:安装环境依赖 + 构建
             - name: Install and Build
               run: |
                   npm install
@@ -26,5 +26,5 @@ jobs:
               uses: JamesIves/github-pages-deploy-action@v4 # 这里使用别人的发布库:https://github.com/JamesIves/github-pages-deploy-action
               with:
                   BRANCH: gh-pages # 指定要发布的分支
-                  FOLDER: ./docs/.vitepress/dist # 指定被发布的目录
-                  BASE_BRANCH: master
+                  FOLDER: ./docs/.vitepress/dist # 指定被发布的目录,这个目录会被push到指定发布的分支
+                  BASE_BRANCH: master # 主分支
