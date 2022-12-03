@@ -1,0 +1,15 @@
+:root {
+    --vp-home-hero-name-color            : transparent;
+    --vp-home-hero-name-background       : -webkit-linear-gradient(120deg, #00ff91 30%, #00a2ff);
+    --vp-home-hero-image-background-image: linear-gradient(-40deg, rgba(0, 255, 145, 0.35) 50%, rgba(0, 162, 255, 0.35) 50%);
+    --vp-home-hero-image-filter          : blur(60px);
+    // 二级标题色
+    --subtitle-color                     : #00a2ff;
+    // 四级标题色
+    --fourth-title-color                 : rgba(33, 53, 71, 0.45);
+
+    // 黑夜模式下的配置
+    &[class="dark"] {
+        --fourth-title-color: rgba(226, 226, 226, 0.45);
+    }
+}

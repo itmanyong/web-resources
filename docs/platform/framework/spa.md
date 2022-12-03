@@ -10,7 +10,7 @@ title: 单页面SPA框架
 
 :::
 
-<ProjectTitle name='React' starts='facebook/react' />
+## React <ProjectBadge name='React' starts='facebook/react' />
 
 用于构建用户界面的 JavaScript 库
 
@@ -20,7 +20,7 @@ title: 单页面SPA框架
 -   [Github 仓库](https://github.com/facebook/react/)
 -   [npm 包](https://www.npmjs.com/package/react)
 
-<ProjectTitle name='Vue' starts='vuejs/core' />
+## Vue <ProjectBadge name='Vue' starts='vuejs/core' />
 
 渐进式 JavaScript 框架
 
@@ -30,7 +30,7 @@ title: 单页面SPA框架
 -   [Github 仓库](https://github.com/vuejs/core)
 -   [npm 包](https://www.npmjs.com/package/vue)
 
-<ProjectTitle name='Angular' starts='angular/angular' version='@angular/core' />
+## Angular <ProjectBadge name='Angular' starts='angular/angular' version='@angular/core' />
 
 现代 Web 开发平台，大而全 该有的都不少
 

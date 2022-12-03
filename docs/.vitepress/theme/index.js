@@ -1,5 +1,6 @@
 import Theme from 'vitepress/theme';
-import './vars.css';
+import './vars.scss';
+import './global.scss';
 import * as components from '/components/index.js';
 
 export default {
