@@ -1,45 +1,30 @@
-# web-resources
-🔥收录前端开发者资源，框架、组件库、优质模板等资源
-# zj                                       // 标题
+<div style='display:flex;justify-content:center;'>
+<div style='width:50%'>
+[![web-resources](https://itmanyong.github.io/web-resources/logo.png "web-resources")](https://itmanyong.github.io/web-resources "web-resources")
+</div>
+</div>
 
-[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)    // 徽章
-TODO: Put more badges here.                // 可以添加更多徽章
+# Web-resources
 
-> yo使用示例                                // 简短说明
+🔥 收录前端开发者资源，框架、组件库、优质模板等资源
 
-TODO: Fill out this long description.      // 详细说明
+> 欢迎推荐更多未录入优质项目、插件、作品等资源~~[👏我要推荐](https://github.com/itmanyong/web-resources/issues/new)
+> 若有你有所帮助,欢迎 [👏star](https://github.com/itmanyong/web-resources) 支持一下
 
-## Table of Contents                       // 下面的章节列表，每个章节都可以点击跳转
+## 资源分类
 
-- [Background](#background)
-- [Install](#install)
-- [Usage](#usage)
-- [Maintainers](#maintainers)
-- [Contributing](#contributing)
-- [License](#license)
+-   [分类总览](https://itmanyong.github.io/web-resources/platform/all)
+-   [框架](https://itmanyong.github.io/web-resources/platform/framework)
+-   [组件库](https://itmanyong.github.io/web-resources/platform/component)
+-   [生态&成品](https://itmanyong.github.io/web-resources/platform/ecology)
+-   [工具&插件](https://itmanyong.github.io/web-resources/platform/tool)
+-   [文档&三方库](https://itmanyong.github.io/web-resources/platform/doc)
+-   [学习&面试](https://itmanyong.github.io/web-resources/platform/learn)
 
-## Background                               // 背景
+## 维护人员
 
-## Install                                  // 安装
+[@itmanyong](https://github.com/itmanyong)
 
-```
-```
+## 参与贡献
 
-## Usage                                    // 用法
-
-```
-```
-
-## Maintainers                              // 主要维护人员
-
-[@zjZSTU](https://github.com/zjZSTU)
-
-## Contributing                             // 参与贡献方式
-
-PRs accepted.
-
-Small note: If editing the README, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
-
-## License                                  // 许可证
-
-MIT © 2019 zjZSTU
+-   [推荐&建议](https://github.com/itmanyong/web-resources/issues/new)
