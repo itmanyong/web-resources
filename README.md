@@ -1,7 +1,8 @@
-<a alt='web-resources' href='https://itmanyong.github.io/web-resources/' style='display: flex;justify-content: center;'>
-<img src='https://itmanyong.github.io/web-resources/logo.png' width='50%' />
-</a>
-
+<p align='center'>
+    <a alt='web-resources' href='https://itmanyong.github.io/web-resources/'>
+        <img src='https://itmanyong.github.io/web-resources/logo.png' width='50%' />
+    </a>
+</p>
 # Web-resources
 
 🔥 收录前端开发者资源，框架、组件库、优质模板等资源
