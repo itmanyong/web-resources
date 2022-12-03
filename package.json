@@ -1,0 +1,45 @@
+{
+  "name": "web-resources",
+  "version": "1.0.0",
+  "description": "前端开发者资源",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs --host",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs",
+    "deploy-gh": "pnpm docs:build && bash deploy-gh.sh"
+  },
+  "keywords": [
+    "React",
+    "react",
+    "Vue",
+    "vue",
+    "Vue3",
+    "vue3",
+    "js",
+    "javascript",
+    "uniapp",
+    "uni-app",
+    "小程序",
+    "weapp",
+    "h5",
+    "web",
+    "前端",
+    "前端开发",
+    "vite",
+    "resources"
+  ],
+  "author": "itmanyong",
+  "license": "MIT",
+  "dependencies": {
+    "vitepress": "1.0.0-alpha.29"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itmanyong/web-resources.git"
+  },
+  "bugs": {
+    "url": "https://github.com/itmanyong/web-resources/issues"
+  },
+  "homepage": "https://github.com/itmanyong/web-resources#readme"
+}
