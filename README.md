@@ -1,14 +1,12 @@
-<div style='display:flex;justify-content:center;'>
-<div style='width:50%'>
-[![web-resources](https://itmanyong.github.io/web-resources/logo.png "web-resources")](https://itmanyong.github.io/web-resources "web-resources")
-</div>
-</div>
+<a alt='web-resources' href='https://itmanyong.github.io/web-resources/' style='display: flex;justify-content: center;'>
+<img src='https://itmanyong.github.io/web-resources/logo.png' width='50%' />
+</a>
 
 # Web-resources
 
 🔥 收录前端开发者资源，框架、组件库、优质模板等资源
 
-> 欢迎推荐更多未录入优质项目、插件、作品等资源~~[👏我要推荐](https://github.com/itmanyong/web-resources/issues/new)
+> 欢迎推荐更多未录入优质项目、插件、作品等资源~~[👏 我要推荐](https://github.com/itmanyong/web-resources/issues/new)
 > 若有你有所帮助,欢迎 [👏star](https://github.com/itmanyong/web-resources) 支持一下
 
 ## 资源分类

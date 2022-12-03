@@ -44,6 +44,7 @@ export default {
     display: flex;
     align-items: center;
     justify-content: space-between;
+
     .title_text {
         color: #147eff;
     }
