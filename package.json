@@ -41,5 +41,8 @@
   "bugs": {
     "url": "https://github.com/itmanyong/web-resources/issues"
   },
-  "homepage": "https://github.com/itmanyong/web-resources#readme"
+  "homepage": "https://github.com/itmanyong/web-resources#readme",
+  "devDependencies": {
+    "sass": "^1.56.1"
+  }
 }

@@ -10,12 +10,9 @@ title: 单页面SPA框架
 
 :::
 
-## React
+<ProjectTitle name='React' starts='facebook/react' />
 
 用于构建用户界面的 JavaScript 库
-
--   ![start](https://img.shields.io/github/stars/facebook/react?style=social)
--   ![version](https://img.shields.io/npm/v/react?label=npm%40latest)
 
 #### 资源地址
 
@@ -23,12 +20,9 @@ title: 单页面SPA框架
 -   [Github 仓库](https://github.com/facebook/react/)
 -   [npm 包](https://www.npmjs.com/package/react)
 
-## Vue
+<ProjectTitle name='Vue' starts='vuejs/core' />
 
 渐进式 JavaScript 框架
-
--   ![start](https://img.shields.io/github/stars/vuejs/core?style=social)
--   ![version](https://img.shields.io/npm/v/vue?label=npm%40latest)
 
 #### 资源地址
 
@@ -36,12 +30,9 @@ title: 单页面SPA框架
 -   [Github 仓库](https://github.com/vuejs/core)
 -   [npm 包](https://www.npmjs.com/package/vue)
 
-## Angular
+<ProjectTitle name='Angular' starts='angular/angular' version='@angular/core' />
 
 现代 Web 开发平台，大而全 该有的都不少
-
--   ![start](https://img.shields.io/github/stars/angular/angular?style=social)
--   ![version](https://img.shields.io/npm/v/@angular/core?label=npm%40latest)
 
 #### 资源地址
 

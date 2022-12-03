@@ -10,15 +10,8 @@ const config = {
     lang: 'zh-CN',
     description: '整理汇集前端开发者资源,包含 WEB H5 小程序 学习资料 等',
     head: createHead(),
-    editLinks: true,
-    logo: '/logo.png',
-    footer: {
-        message: 'Released under the MIT License.',
-        copyright: 'Copyright © itmanyong 2022-present  web-resources',
-    },
-    lastUpdated: true,
-    socialLinks: [{ icon: 'github', link: 'https://github.com/itmanyong/web-resources' }],
     themeConfig: {
+        lastUpdated: true,
         lastUpdatedText: '最近更新时间',
         outlineTitle: '本页面',
         // algolia检索-https://docsearch.algolia.com/
@@ -36,6 +29,13 @@ const config = {
         editLink: {
             pattern: 'https://github.com/itmanyong/web-resources/edit/main/docs/:path',
             text: '为此页提供修改建议',
+        },
+        editLinks: true,
+        logo: '/logo.png',
+        socialLinks: [{ icon: 'github', link: 'https://github.com/itmanyong/web-resources' }],
+        footer: {
+            // message: '',
+            copyright: 'Copyright ©itmanyong 2022-present  web-resources',
         },
     },
     ignoreDeadLinks: true,

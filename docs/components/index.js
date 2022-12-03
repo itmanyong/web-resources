@@ -8,5 +8,6 @@ import LogoApp from './LogoApp.vue';
 import LogoPC from './LogoPC.vue';
 import LogoSSR from './LogoSSR.vue';
 import LogoWebPack from './LogoWebPack.vue';
+import ProjectTitle from './ProjectTitle.vue';
 
-export { LogoVue2, LogoVue3, LogoReact, LogoVite, LogoJS, LogoWeApp, LogoApp, LogoPC, LogoSSR, LogoWebPack };
+export { LogoVue2, LogoVue3, LogoReact, LogoVite, LogoJS, LogoWeApp, LogoApp, LogoPC, LogoSSR, LogoWebPack, ProjectTitle };

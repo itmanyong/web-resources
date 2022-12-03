@@ -6,13 +6,13 @@ title: 单页面SPA框架
 
 ::: tip 说明
 
--   对开发者体验最友好了~相信没有开发者不喜欢它
+-   如果不存在 SEO,你会使用吗
 
 :::
 
-## NextJS
+<ProjectTitle name='Next' starts='vercel/next.js' />
 
-动态无极限 用了都说好的 React 式 SSR 框架
+动态无极限！用了都说好的 React 式 SSR 框，v13 更是身披涡轮增压器强势来袭
 
 -   ![start](https://img.shields.io/github/stars/vercel/next.js?style=social)
 -   ![version](https://img.shields.io/npm/v/next?label=npm%40latest)
@@ -23,12 +23,9 @@ title: 单页面SPA框架
 -   [Github 仓库](https://github.com/vercel/next.js)
 -   [npm 包](https://www.npmjs.com/package/next)
 
-## NuxtJS
+<ProjectTitle name='Nuxt' starts='nuxt/framework' />
 
 直观的 Web 框架 Vue 式的 SSR 框架
-
--   ![start](https://img.shields.io/github/stars/nuxt/framework?style=social)
--   ![version](https://img.shields.io/npm/v/nuxt?label=npm%40latest)
 
 #### 资源地址
 
@@ -36,12 +33,9 @@ title: 单页面SPA框架
 -   [Github 仓库](https://github.com/nuxt/framework)
 -   [npm 包](https://www.npmjs.com/package/next)
 
-## Angular
+<ProjectTitle name='Angular' starts='angular/angular' />
 
 现代 Web 开发平台，大而全 该有的都不少
-
--   ![start](https://img.shields.io/github/stars/angular/angular?style=social)
--   ![version](https://img.shields.io/npm/v/@angular/core?label=npm%40latest)
 
 #### 资源地址
 
@@ -49,12 +43,9 @@ title: 单页面SPA框架
 -   [Github 仓库](https://github.com/angular/angular)
 -   [npm 包](https://www.npmjs.com/package/@angular/core)
 
-## Qwik
+<ProjectTitle name='Qwik' starts='BuilderIO/qwik' version='@builder.io/qwik' />
 
 号称拥有`极限性能`的现代化重新构想而生 SSR 框架
-
--   ![start](https://img.shields.io/github/stars/BuilderIO/qwik?style=social)
--   ![version](https://img.shields.io/npm/v/@builder.io/qwik?label=npm%40latest)
 
 #### 资源地址
 
@@ -62,12 +53,9 @@ title: 单页面SPA框架
 -   [Github 仓库](https://github.com/BuilderIO/qwik)
 -   [npm 包](https://www.npmjs.com/package/@builder.io/qwik)
 
-## Astro
+<ProjectTitle name='Astro' starts='withastro/astro' />
 
 一体化的 网络框架，用于构建快速、以 内容为中心的网站，号称默认`零JS运行时`支持`多种框架`混合编写
-
--   ![start](https://img.shields.io/github/stars/withastro/astro?style=social)
--   ![version](https://img.shields.io/npm/v/astro?label=npm%40latest)
 
 #### 资源地址
 
