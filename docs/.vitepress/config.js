@@ -27,7 +27,7 @@ const config = {
             next: '下一页',
         },
         editLink: {
-            pattern: 'https://github.com/itmanyong/web-resources/edit/main/docs/:path',
+            pattern: 'https://github.com/itmanyong/web-resources/edit/master/docs/:path',
             text: '为此页提供修改建议',
         },
         editLinks: true,

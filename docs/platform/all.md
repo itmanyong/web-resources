@@ -2,13 +2,13 @@
 title: 介绍
 ---
 
-# 介绍
+# 本站收集`前端领域`涉及的各类资源
 
 ::: tip 说明
 
--   本站用于收集前端开发中所需的各类资源！！
 -   有助于你,可以 star [支持一下](https://github.com/itmanyong/web-resources)
--   有好的还未收录项目可以推荐收录 [我要推荐](https://github.com/itmanyong/web-resources/issues/new)
+-   有好的还未收录项目可以推荐收录 [资源推荐](#优质资源推荐)
+-   [Bug&建议](https://github.com/itmanyong/web-resources/issues/new)
 
 :::
 
@@ -30,3 +30,9 @@ title: 介绍
 | <LogoWebPack /> | Webpack     |                    |        |
 
 :::
+
+## 优质资源推荐
+
+-   `方式一` 通过[创建 issues](https://github.com/itmanyong/web-resources/issues/new)告知等待收录
+
+-   `方式二` 根据资源类型打开本站内对应类型页面,点击底部左侧的`为此页提供修改建议`链接进行编辑后提交`commit changes`等待合并即可

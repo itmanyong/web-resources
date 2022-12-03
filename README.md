@@ -6,8 +6,7 @@
 <h1 align='center'>Web-resources</h1>
 <p align='center'><em>🔥 收录前端开发者资源，框架、组件库、优质模板等资源</em></p>
 
-
-> 欢迎推荐更多未录入优质项目、插件、作品等资源~~[🌟我要推荐](https://github.com/itmanyong/web-resources/issues/new)
+> 欢迎推荐更多未录入优质项目、插件、作品等资源~~[🌟 我要推荐](#提交优质资源)
 
 > 若有你有所帮助,欢迎 [👏star](https://github.com/itmanyong/web-resources) 支持一下
 
@@ -27,4 +26,12 @@
 
 ## 参与贡献
 
--   [推荐&建议](https://github.com/itmanyong/web-resources/issues/new)
+-   [BUG&建议](https://github.com/itmanyong/web-resources/issues/new)
+
+## 提交优质资源
+
+-   将以下链接中的 `:path` 修改为当前仓库`docs`目录下的路径
+    `https://github.com/itmanyong/web-resources/edit/master/docs/:path`
+
+-   例如：提交一个小程序框架 相对于 docs 目录下路径为：`platform/framework/mp.md`
+    则 commit 的编辑地址为 `https://github.com/itmanyong/web-resources/edit/master/docs/platform/framework/mp.md`
