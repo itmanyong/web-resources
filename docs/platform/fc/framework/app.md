@@ -18,3 +18,24 @@ title: 移动端APP框架
 
 -   `官方文档` [中文](https://hummer.didi.cn/#/)
 -   `公网仓库` [Github](https://github.com/didi/Hummer) | [Npm](https://www.npmjs.com/package/@hummer/cli)
+
+## Weex <ProjectBadge  starts='alibaba/weex' />
+
+`阿里巴巴`出品支持开发`Android` `iOS` `WEB平台`的框架，支持 `Vue` `Rax` `原生`语法编写，不过目前发展状况不是很好
+
+-   `官方文档` [英文](https://weexapp.com/) | [中文](https://weexapp.com/zh/)
+-   `公网仓库` [Github](https://github.com/alibaba/weex) | [Npm](https://www.npmjs.com/package/weex-toolkit)
+
+## React-native <ProjectBadge  starts='facebook/react-native' version='react-native' />
+
+`Facebook`出品使用`React`技术开发`Android` `iOS`的框架，算是补上 React 生态的重大一环，强大社区生态，对于 React 热爱者来说是不二之选
+
+-   `官方文档` [英文](https://reactnative.dev/) | [中文](https://www.reactnative.cn/)
+-   `公网仓库` [Github](https://github.com/facebook/react-native) | [Npm](https://www.npmjs.com/package/react-native)
+
+## Ionic <ProjectBadge  starts='ionic-team' version='@ionic/cli' />
+
+`跨平台`的支持以`React` `Angular` `Vue`方式开发移动端应用的专注于`UI` `UX`的工具包，官方维护超过`100+`的组件并配置了超全的文档
+
+-   `官方文档` [英文](https://ionicframework.com/) | [中文](https://www.reactnative.cn/)
+-   `公网仓库` [Github](https://github.com/ionic-team) | [Npm](https://www.npmjs.com/package/@ionic/cli)

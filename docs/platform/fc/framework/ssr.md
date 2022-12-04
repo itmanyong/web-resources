@@ -1,5 +1,5 @@
 ---
-title: 单页面SPA框架
+title: 服务端渲染 SSR 框架
 ---
 
 # 服务端渲染 SSR 框架

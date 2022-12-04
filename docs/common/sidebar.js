@@ -15,7 +15,7 @@ const sidebar = {
                     link: '/platform/fc/framework/ssr',
                 },
                 {
-                    text: '小程序',
+                    text: '跨端&小程序',
                     link: '/platform/fc/framework/mp',
                 },
                 {
