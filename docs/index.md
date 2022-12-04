@@ -19,32 +19,32 @@ hero:
 features:
     - icon: 🏀
       title: 框架
-      details: JS框架、CSS框架、SS框架等开发基座项目
+      details: 前端基建、SSR、微前端、APP、跨端跨平台
       linkText: 立即查阅
-      link: platform/framework
+      link: platform/fc/framework
     - icon: 🐔
       title: 组件库
-      details: 实用的UI库、独立组件、样式库等界面相关资源
+      details: 体系UI、高质独立组件、优秀CSS法门
       linkText: 立即查阅
-      link: platform/component
+      link: platform/fc/component
     - icon: 🎵
       title: 生态&成品
-      details: 成品项目、优质模板、即拿即用
+      details: 开发周边、开箱即用、优质好库、热门生态
       linkText: 立即查阅
-      link: platform/ecology
+      link: platform/fc/ecology
     - icon: 🎤
       title: 工具&插件
-      details: 实用、高效的工具/功能/插件资源
+      details: 开发配套、实用工具、高效插件
       linkText: 立即查阅
-      link: platform/tool
+      link: platform/tp/tool
     - icon: 💃
-      title: 文档&三方库
-      details: 技术刊文、官方文档、实用第三方库等资源
+      title: 文档&学习
+      details: 技术刊文、官方文档、技术知识、进阶宝典
       linkText: 立即查阅
       link: platform/doc
     - icon: 🎒
-      title: 学习&面试
-      details: 体系教程、进阶文献、航母优质螺丝等资源
+      title: 面试&收藏
+      details: 航母螺丝、面试宝典、高质量面经、收藏
       linkText: 立即查阅
-      link: platform/learn
+      link: platform/ic
 ---

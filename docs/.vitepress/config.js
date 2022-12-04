@@ -5,41 +5,46 @@ import sidebar from '../common/sidebar';
  */
 const config = {
     base: '/web-resources/',
-    title: 'Web-resources',
-    titleTemplate: 'WEB-RESOURCES',
+    title: 'web-resources',
     lang: 'zh-CN',
-    description: '整理汇集前端开发者资源,包含 WEB H5 小程序 学习资料 等',
+    description: '收录前端优质框架、库、工具、教程等资源',
     head: createHead(),
+    ignoreDeadLinks: true,
+    cleanUrls: 'disabled',
     lastUpdated: true,
     themeConfig: {
-        lastUpdatedText: '最近更新时间',
-        outlineTitle: '本页面',
         // algolia检索-https://docsearch.algolia.com/
         algolia: {
             appId: 'MSTIXL0W57',
             apiKey: '61c1764abc43e548373e60269daed667',
             indexName: 'web-resources',
+            searchParameters: {
+                facetFilters: ['tags:en'],
+            },
         },
-        nav: nav,
-        sidebar: sidebar,
-        docFooter: {
-            prev: '上一页',
-            next: '下一页',
+        repo: 'itmanyong/web-resources',
+        docsRepo: 'itmanyong/web-resources',
+        docsBranch: 'master/docs',
+        editLinks: true,
+        logo: '/logo.png',
+        footer: {
+            message: 'Released under the MIT License.',
+            copyright: 'Copyright ©itmanyong 2022-present  web-resources',
         },
+        lastUpdatedText: '最近更新时间',
+        socialLinks: [{ icon: 'github', link: 'https://github.com/itmanyong/web-resources' }],
         editLink: {
             pattern: 'https://github.com/itmanyong/web-resources/edit/master/docs/:path',
             text: '为此页提供修改建议',
         },
-        editLinks: true,
-        logo: '/logo.png',
-        socialLinks: [{ icon: 'github', link: 'https://github.com/itmanyong/web-resources' }],
-        footer: {
-            // message: '',
-            copyright: 'Copyright ©itmanyong 2022-present  web-resources',
+        nav: nav,
+        sidebar: sidebar,
+        outlineTitle: '本页面',
+        docFooter: {
+            prev: '上一页',
+            next: '下一页',
         },
     },
-    ignoreDeadLinks: true,
-    cleanUrls: 'without-subfolders',
 };
 
 // 创建head头部
