@@ -103,7 +103,7 @@ title: 网络处理
     </tbody>
 </table>
 
-## Luch request <ProjectBadge starts='flutterchina/dio' />
+## Luch request <ProjectBadge starts='flutterchina/dio' version='luch-request' />
 
 类似于`axios`的基于`Uniapp` `Promise`而开发的请求库，针对 Uniapp 的`不同平台`做了优化，api 设计靠拢`axios`，学习成本基本没有，使用`Uniapp`的开发者不容错过
 
