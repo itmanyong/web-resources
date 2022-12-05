@@ -34,4 +34,4 @@
     `https://github.com/itmanyong/web-resources/edit/master/docs/:path`
 
 -   例如：提交一个小程序框架 相对于 docs 目录下路径为：`platform/framework/mp.md`
-    则 commit 的编辑地址为 `https://github.com/itmanyong/web-resources/edit/master/docs/platform/framework/mp.md`
+    则 commit 的编辑地址为 `https://github.com/itmanyong/web-resources/edit/master/docs/platform/fc/framework/mp.md`
