@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.70f0c86d.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"platform/fc/ecology/admin.md","lastUpdated":1670209423000}'),o={name:"platform/fc/ecology/admin.md"};function r(c,n,s,d,p,m){return a(),t("div")}const l=e(o,[["render",r]]);export{f as __pageData,l as default};

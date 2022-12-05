@@ -1,1 +1,0 @@
-import{_ as e,c as t,o}from"./app.70f0c86d.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"platform/fc/ecology/router.md","lastUpdated":1670209423000}'),r={name:"platform/fc/ecology/router.md"};function a(c,s,n,p,d,f){return o(),t("div")}const m=e(r,[["render",a]]);export{_ as __pageData,m as default};
