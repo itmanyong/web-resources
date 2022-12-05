@@ -27,4 +27,3 @@ jobs:
               with:
                   BRANCH: gh-pages # 指定要发布的分支
                   FOLDER: ./docs/.vitepress/dist # 指定被发布的目录,这个目录会被push到指定发布的分支
-                  BASE_BRANCH: master # 主分支
