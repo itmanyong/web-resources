@@ -6,7 +6,7 @@ title: 其他框架
 
 ::: tip 说明
 
--   补充中~~~
+-   思想新奇、设计优异的周边生态~~~
 
 :::
 
@@ -23,3 +23,10 @@ title: 其他框架
 
 -   `官方文档` [英文](https://voby.dev/)
 -   `公网仓库` [Github](https://github.com/vobyjs/voby) | [Npm](https://www.npmjs.com/package/voby)
+
+## Aoife <ProjectBadge starts='ymzuiku/aoife' version='create-aoife-app' />
+
+使用 `JSX` 开发原生 HTMLElement，兼容所有原生 JS 使用，自产路由、状态管理、组件库等配套，虽属`个人开发`但其设计思想还是值得学习
+
+-   `官方文档` [中文](https://aoife.writeflowy.com/)
+-   `公网仓库` [Github](https://github.com/ymzuiku/aoife) | [Npm](https://www.npmjs.com/package/create-aoife-app)
