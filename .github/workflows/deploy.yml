@@ -22,8 +22,8 @@ jobs:
                   npm install
                   npm run docs:build
               # 第三步:发布
-            - name: Deploy
-              uses: JamesIves/github-pages-deploy-action@v4 # 这里使用别人的发布库:https://github.com/JamesIves/github-pages-deploy-action
+            - name: Deploy GitHub Pages
+              uses: JamesIves/github-pages-deploy-action@v4.4.1 # 这里使用别人的发布库:https://github.com/JamesIves/github-pages-deploy-action
               with:
                   BRANCH: gh-pages # 指定要发布的分支
                   FOLDER: ./docs/.vitepress/dist # 指定被发布的目录,这个目录会被push到指定发布的分支
