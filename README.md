@@ -13,12 +13,12 @@
 ## 资源分类
 
 -   [分类总览](https://itmanyong.github.io/web-resources/platform/all)
--   [框架](https://itmanyong.github.io/web-resources/platform/framework)
--   [组件库](https://itmanyong.github.io/web-resources/platform/component)
--   [生态&成品](https://itmanyong.github.io/web-resources/platform/ecology)
--   [工具&插件](https://itmanyong.github.io/web-resources/platform/tool)
--   [文档&三方库](https://itmanyong.github.io/web-resources/platform/doc)
--   [学习&面试](https://itmanyong.github.io/web-resources/platform/learn)
+-   [框架](https://itmanyong.github.io/web-resources/platform/fc/framework)
+-   [组件库](https://itmanyong.github.io/web-resources/platform/fc/component)
+-   [生态&成品](https://itmanyong.github.io/web-resources/platform/fc/ecology)
+-   [工具&插件](https://itmanyong.github.io/web-resources/platform/tp/tool)
+-   [文档&学习](https://itmanyong.github.io/web-resources/platform/doc)
+-   [面试&收藏](https://itmanyong.github.io/web-resources/platform/ic)
 
 ## 维护人员
 
