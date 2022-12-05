@@ -10,6 +10,32 @@ title: 状态管理
 
 :::
 
+## Legend State <ProjectBadge starts='LegendApp/legend-state' version='@legendapp/state' />
+
+`超快` `超高性能` 的大型 JS 状态管理器，本身不局限于框架，官方提供`React`的集成,并使用技巧对 React 的组件做了极大的`性能优化`，大大降低了`React`开发者的心智负担，与其他框架的结合需要开发者自行摸索
+
+-   `官方文档` [英文](https://legendapp.com/open-source/state/)
+-   `公网仓库` [Github](https://github.com/LegendApp/legend-state) | [Npm](https://www.npmjs.com/package/@legendapp/state)
+-   `支持度&兼容性`
+<table class='mini_table'>
+    <thead>
+        <tr>
+            <th>Vanilla</th>
+            <th>React</th>
+            <th>Vue</th>
+            <th>其他</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+        </tr>
+    </tbody>
+</table>
+
 ## Pinia <ProjectBadge starts='vuejs/pinia' version='pinia' />
 
 以`组合式API`为主的`Vue`状态管理库，支持`option式`的语法，`极其轻量1KB`，使用 Vuex 的开发者是时候升级了~
@@ -162,6 +188,64 @@ title: 状态管理
     </thead>
     <tbody>
         <tr>
+            <th>✔️</th>
+        </tr>
+    </tbody>
+</table>
+
+## Nano Stores <ProjectBadge starts='nanostores/nanostores' version='nanostores' />
+
+`超小的` `超快速` `无头的`JS 状态容器，具有很好地 TS 支持，本身不局限于框架，但作者还是提供了针对特定框架的集成 [`vue-store`](https://github.com/nanostores/vue) [`Preact-store`](https://github.com/nanostores/preact) [`React-store`](https://github.com/nanostores/react) [`Solid-store`](https://github.com/nanostores/solid)
+
+-   `公网仓库` [Github](https://github.com/nanostores/nanostores) | [生态仓库 Github](https://github.com/nanostores) | [Npm](https://www.npmjs.com/package/nanostores)
+-   `支持度&兼容性`
+<table class='mini_table'>
+    <thead>
+        <tr>
+            <th>Vanilla</th>
+            <th>React</th>
+            <th>Preact</th>
+            <th>Vue</th>
+            <th>Solid</th>
+            <th>Svelte</th>
+            <th>React Native</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+        </tr>
+    </tbody>
+</table>
+
+## Xoid <ProjectBadge starts='onurkerimov/xoid' version='xoid' />
+
+`可扩展` `与框架无关`的状态管理器，`简单性` `扩展性`是它的特点，本身基于`atoms`，推崇`原子化`状态，为`React`提供了集成和说明示例
+
+-   `官方文档` [英文](https://xoid.dev/)
+-   `公网仓库` [Github](https://github.com/onurkerimov/xoid) | [Npm](https://www.npmjs.com/package/xoid)
+-   `体验示例` [官方示例](https://xoid.dev/docs/examples)
+-   `支持度&兼容性`
+<table class='mini_table'>
+    <thead>
+        <tr>
+            <th>Vanilla</th>
+            <th>React</th>
+            <th>Vue</th>
+            <th>其他</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
             <th>✔️</th>
         </tr>
     </tbody>
