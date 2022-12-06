@@ -4,7 +4,7 @@ title: 基础框架
 
 # 基础框架
 
-::: tip 说明
+::: tip [我要推荐](https://github.com/itmanyong/web-resources/edit/master/docs/platform/fc/framework/spa.md)
 
 -   对开发者体验最友好了~相信没有开发者不喜欢它
 

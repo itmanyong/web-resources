@@ -1,10 +1,10 @@
 ---
-title: UI库
+title: UI库-WEB
 ---
 
-# UI 库
+# UI 库-WEB
 
-::: tip 说明
+::: tip [我要推荐](https://github.com/itmanyong/web-resources/edit/master/docs/platform/fc/component/ui-web.md)
 
 -   全功能、自成一套体系、具有统一设计性的界面库
 -   不同功能的组件的统一设计规范的实现集合，决定着项目的最终效果
@@ -16,8 +16,8 @@ title: UI库
 `阿里出品` `React` `Antd` `动态主题` `社区活跃` `按需加载` `组件超多` `国际化` `大厂规范` `国内React UI库标杆`
 
 -   `官方文档` [英文](https://ant-design.antgroup.com/) | [中文](https://ant-design.antgroup.com/index-cn) | [V4-英文](https://4x-ant-design.antgroup.com/) | [V4-中文](https://4x-ant-design.antgroup.com/index-cn/)
--   `公网仓库` [`Github`](https://github.com/ant-design/ant-design) | [Github 生态仓库](https://github.com/ant-design) | [`Npm`](https://www.npmjs.com/package/antd) | [配套周边](https://4x-ant-design.antgroup.com/docs/react/recommendation-cn)
-
+-   `公网仓库` [Github](https://github.com/ant-design/ant-design) | [Npm](https://www.npmjs.com/package/antd) | [Github 生态仓库](https://github.com/ant-design) | [配套周边](https://4x-ant-design.antgroup.com/docs/react/recommendation-cn)
+-   `生态周边` [React-H5 版本](/platform/fc/component/ui-h5.html#ant-design)
 -   `支持度&兼容性`
 <table class='mini_table'>
     <thead>
@@ -195,13 +195,12 @@ title: UI库
     </tbody>
 </table>
 
+## Quasar <ProjectBadge starts='quasarframework/quasar' version='quasar' />
 
-## Quasar <ProjectBadge starts='vuetifyjs/vuetify' version='vuetify' />
+`高质量` `优生态` `全链路生态工具` `主题定制` `内置指令` `内置组合式` `众多热门生态工具插件` `布局主题生成器` `完善文档教程` `暗黑模式` `优秀设计`
 
-`高质量` `` `` `` ``
-
--   `官方文档` [英文](https://next.vuetifyjs.com/) | [V2-中文](https://vuetifyjs.com/zh-Hans/)
--   `公网仓库` [Github](https://github.com/vuetifyjs/vuetify) | [生态仓库 Github](https://github.com/vuetifyjs) | [Npm](https://www.npmjs.com/package/vuetify)
+-   `官方文档` [中文](http://www.quasarchs.com/)
+-   `公网仓库` [Github](https://github.com/quasarframework/quasar) | [生态仓库 Github](https://github.com/quasarframework) | [Npm](https://www.npmjs.com/package/quasar)
 
 -   `支持度&兼容性`
 <table class='mini_table'>
@@ -211,10 +210,124 @@ title: UI库
             <th>Vue2</th>
             <th>Web</th>
             <th>SSR</th>
+            <th>H5</th>
+            <th>桌面PC</th>
+            <th>Bex</th>
+            <th>其他(理论全支持)</th>
         </tr>
     </thead>
     <tbody>
         <tr>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>❓</th>
+        </tr>
+    </tbody>
+</table>
+
+## Arco Design <ProjectBadge starts='arco-design' version='@arco-design/web-vue' />
+
+`字节跳动` `大厂设计` `React` `Vue3` `Vite` `Webpack` `H5` `组件完善小巧` `UI美观优雅` `文档清晰完善` `主题风格工具` `物料周边` `图标平台` `配套Admin` `难得良品`
+
+-   `官方文档` [中文-React](https://arco.design/react/docs/start) | [中文-Vue](https://arco.design/vue/docs/start) | [中文-React H5](https://arco.design/mobile/react)
+-   `公网仓库` [Github](https://github.com/arco-design) | [Npm-React](https://www.npmjs.com/package/@arco-design/web-react) | [Npm-Vue](https://www.npmjs.com/package/@arco-design/web-vue)
+-   `生态周边` [React-H5 版本](/platform/fc/component/ui-h5.html#arco-design)
+-   `支持度&兼容性`
+<table class='mini_table'>
+    <thead>
+        <tr>
+            <th>Vue3</th>
+            <th>React</th>
+            <th>Web</th>
+            <th>SSR</th>
+            <th>CDN</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+        </tr>
+    </tbody>
+</table>
+
+## Semi Design <ProjectBadge starts='DouyinFE/semi-design' version='@douyinfe/semi-ui' />
+
+`抖音出品` `大厂设计` `React` `Vite` `Webpack` `组件完善` `UI美观优雅` `文档清晰` `主题可配` `内置多套优秀主题`
+
+-   `官方文档` [英文](https://semi.design/en-US/) | [中文](https://semi.design/zh-CN/)
+-   `公网仓库` [Github](https://github.com/DouyinFE/semi-design) | [Npm](https://www.npmjs.com/package/@douyinfe/semi-ui)
+-   `体验示例` [主题设计管理](https://semi.design/dsm/landing)
+-   `支持度&兼容性`
+<table class='mini_table'>
+    <thead>
+        <tr>
+            <th>React</th>
+            <th>Web</th>
+            <th>SSR</th>
+            <th>Next</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+        </tr>
+    </tbody>
+</table>
+
+## MUI <ProjectBadge starts='mui' version='@mui/material' />
+
+`谷歌出品` `知名设计` `React` `Vite` `Webpack` `超多组件` `UI独树一帜` `文档完善` `主题可配` `多个高级组件` `开箱即用的模板` `设计素材` `配套低代码工具`
+
+-   `官方文档` [英文](https://mui.com/) | [高级组件](https://mui.com/x/)
+-   `公网仓库` [Github](https://github.com/mui) | [Npm](https://www.npmjs.com/package/@mui/material)
+-   `支持度&兼容性`
+<table class='mini_table'>
+    <thead>
+        <tr>
+            <th>React</th>
+            <th>Web</th>
+            <th>SSR</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+        </tr>
+    </tbody>
+</table>
+
+## React Suite <ProjectBadge starts='rsuite/rsuite' version='rsuite' />
+
+`体验优秀` `功能齐全` `React` `Vite` `Webpack` `超多组件` `UI独特` `文档完善` `主题定制` `设计素材` `扩展高级功能组件`
+
+-   `官方文档` [英文](https://rsuitejs.com/) | [中文](https://rsuitejs.com/zh/) | [扩展组件](https://rsuitejs.com/zh/resources/extensions/)
+-   `公网仓库` [Github](https://github.com/rsuite/rsuite) | [Npm](https://www.npmjs.com/package/rsuite)
+-   `支持度&兼容性`
+<table class='mini_table'>
+    <thead>
+        <tr>
+            <th>React</th>
+            <th>Web</th>
+            <th>SSR</th>
+            <th>Next</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>✔️</th>
             <th>✔️</th>
             <th>✔️</th>
             <th>✔️</th>

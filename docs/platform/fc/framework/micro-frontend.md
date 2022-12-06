@@ -4,7 +4,7 @@ title: 微前端
 
 # 微前端
 
-::: tip 说明
+::: tip [我要推荐](https://github.com/itmanyong/web-resources/edit/master/docs/platform/fc/framework/micro-frontend.md)
 
 -   将不同版本、不同框架、不同架构的前端项目编排在一起形成巨型应用 | 统一规划
 -   支持以不同版本、不同框架、不同技术进行项目开发、拆分、组合、共享的能力

@@ -4,7 +4,7 @@ title: 样式处理
 
 # 样式处理
 
-::: tip 说明
+::: tip [我要推荐](https://github.com/itmanyong/web-resources/edit/master/docs/platform/fc/ecology/style.md)
 
 -   CSS 预处理器解决了开发者的痛点，提升了开发体验~
 -   原子化无视了作用域污染、走出了不同寻常的道路，但对开发者的要求提高了~

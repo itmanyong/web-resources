@@ -4,7 +4,7 @@ title: 桌面端PC框架
 
 # 桌面端 PC 框架
 
-::: tip 说明
+::: tip [我要推荐](https://github.com/itmanyong/web-resources/edit/master/docs/platform/fc/framework/pc.md)
 
 -   使用前端技术来构建跨平台的桌面端应用
 

@@ -4,7 +4,7 @@ title: 服务端渲染 SSR 框架
 
 # 服务端渲染 SSR 框架
 
-::: tip 说明
+::: tip [我要推荐](https://github.com/itmanyong/web-resources/edit/master/docs/platform/fc/framework/ssr.md)
 
 -   如果不存在 SEO,你会使用吗
 

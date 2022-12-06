@@ -54,7 +54,7 @@ const sidebar = {
                     link: '/platform/fc/ecology/model',
                 },
                 {
-                    text: '网络请求',
+                    text: '网络处理',
                     link: '/platform/fc/ecology/request',
                 },
                 {
@@ -77,8 +77,16 @@ const sidebar = {
             collapsed: false,
             items: [
                 {
-                    text: 'UI库',
-                    link: '/platform/fc/component/ui',
+                    text: 'UI库-Web',
+                    link: '/platform/fc/component/ui-web',
+                },
+                {
+                    text: 'UI库-H5',
+                    link: '/platform/fc/component/ui-h5',
+                },
+                {
+                    text: 'UI库-小程序',
+                    link: '/platform/fc/component/ui-mp',
                 },
                 {
                     text: '图表集',

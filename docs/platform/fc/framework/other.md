@@ -4,7 +4,7 @@ title: 其他框架
 
 # 其他框架
 
-::: tip 说明
+::: tip [我要推荐](https://github.com/itmanyong/web-resources/edit/master/docs/platform/fc/framework/other.md)
 
 -   思想新奇、设计优异的周边生态~~~
 

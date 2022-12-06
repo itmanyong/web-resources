@@ -4,7 +4,7 @@ title: 小程序&跨端框架
 
 # 小程序&跨端框架
 
-::: tip 说明
+::: tip [我要推荐](https://github.com/itmanyong/web-resources/edit/master/docs/platform/fc/framework/mp.md)
 
 -   依附于平台微型化的 app 应用，平台化的定制 H5
 

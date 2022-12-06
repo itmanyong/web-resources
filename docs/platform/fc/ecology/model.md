@@ -4,7 +4,7 @@ title: 状态管理
 
 # 状态管理
 
-::: tip 说明
+::: tip [我要推荐](https://github.com/itmanyong/web-resources/edit/master/docs/platform/fc/ecology/router.md)
 
 -   项目级别的响应状态共享能力，跨组件跨页面
 

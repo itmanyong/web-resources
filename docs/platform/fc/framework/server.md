@@ -4,7 +4,7 @@ title: 服务端框架
 
 # 服务端框架
 
-::: tip 说明
+::: tip [我要推荐](https://github.com/itmanyong/web-resources/edit/master/docs/platform/fc/framework/server.md)
 
 -   一个基于 Chrome V8 引擎的 JavaScript 运行时，走向服务端的一大步
 

@@ -4,7 +4,7 @@ title: 移动端APP框架
 
 # 移动端 APP 框架
 
-::: tip 说明
+::: tip [我要推荐](https://github.com/itmanyong/web-resources/edit/master/docs/platform/fc/framework/app.md)
 
 -   严重影响原生移动APP的开发市场，在性能体验不是那么重要的情况下的首选方案
 

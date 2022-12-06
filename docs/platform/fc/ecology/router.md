@@ -4,7 +4,7 @@ title: 路由器
 
 # 路由器
 
-::: tip 说明
+::: tip [我要推荐](https://github.com/itmanyong/web-resources/edit/master/docs/platform/fc/ecology/router.md)
 
 -   纯前端控制的细致到模块的页面匹配组装能力
 -   前后端分离重要的技术创新点，完全摆脱服务端路由的控制

@@ -4,7 +4,7 @@ title: 开箱即用&模板
 
 # 开箱即用&模板
 
-::: tip 说明
+::: tip [我要推荐](https://github.com/itmanyong/web-resources/edit/master/docs/platform/fc/ecology/admin.md)
 
 -   优秀的设计往往来自于它处~
 -   事半功倍，即拿即用，拒绝从`0`开始
@@ -145,6 +145,27 @@ title: 开箱即用&模板
             <th>✔️</th>
             <th>✔️</th>
             <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+        </tr>
+    </tbody>
+</table>
+
+## SCUI admin
+
+`Vue3` `Vite` `Element Plus` `轻量清爽` `界面优雅` `代码规范` `高质量封装组件` `内置常用工具` `文档清晰` `难得佳作` `值得学习` `不容错过`
+
+-   [`官方文档`](https://lolicode.gitee.io/scui-doc/) | [`Gitee仓库`](https://gitee.com/lolicode/scui) | [`在线预览`](https://lolicode.gitee.io/scui-doc/demo/#/login)
+-   `支持度&兼容性`
+<table class='mini_table'>
+    <thead>
+        <tr>
+            <th>Vue3</th>
+            <th>Vite</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
             <th>✔️</th>
             <th>✔️</th>
         </tr>

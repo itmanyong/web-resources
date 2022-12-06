@@ -4,7 +4,7 @@ title: 网络处理
 
 # 网络处理
 
-::: tip 说明
+::: tip [我要推荐](https://github.com/itmanyong/web-resources/edit/master/docs/platform/fc/ecology/request.md)
 
 -   与服务器进行交互的桥梁，构建项目的必要技术
 

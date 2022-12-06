@@ -4,7 +4,7 @@ title: CSS-in-JS
 
 # CSS-in-JS
 
-::: tip 说明
+::: tip [我要推荐](https://github.com/itmanyong/web-resources/edit/master/docs/platform/fc/ecology/css-in-js.md)
 
 -   独立于`样式处理`的主要原因在于其广泛的生态，并不隶属于 CSS 特征，更像是新的篇章
 -   css-in-js 赋予 CSS 动态化的能力，将其编程化了获得了更多的可能,但对开发规范提出了更高的要求~
