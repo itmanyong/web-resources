@@ -62,6 +62,10 @@ const sidebar = {
                     link: '/platform/fc/ecology/style',
                 },
                 {
+                    text: 'css-in-js',
+                    link: '/platform/fc/ecology/css-in-js',
+                },
+                {
                     text: '开箱即用Admin',
                     link: '/platform/fc/ecology/admin',
                 },

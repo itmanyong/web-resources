@@ -2,10 +2,10 @@ lockfileVersion: 5.4
 
 specifiers:
   sass: ^1.56.1
-  vitepress: 1.0.0-alpha.29
+  vitepress: 1.0.0-alpha.30
 
 dependencies:
-  vitepress: 1.0.0-alpha.29_sass@1.56.1
+  vitepress: 1.0.0-alpha.30_sass@1.56.1
 
 devDependencies:
   sass: 1.56.1
@@ -759,6 +759,7 @@ packages:
 
   /sourcemap-codec/1.4.8:
     resolution: {integrity: sha512-9NykojV5Uih4lgo5So5dtw+f0JgJX30KCNI8gwhz2J9A15wD0Ml6tjHKwf6fTSa6fAdVBdZeNOs9eJ71qCk8vA==}
+    deprecated: Please use @jridgewell/sourcemap-codec instead
     dev: false
 
   /supports-preserve-symlinks-flag/1.0.0:
@@ -811,8 +812,8 @@ packages:
       fsevents: 2.3.2
     dev: false
 
-  /vitepress/1.0.0-alpha.29_sass@1.56.1:
-    resolution: {integrity: sha512-oaRaeMLcN9M3Bxz97fFVF6Gzm3Aqtb0CijTt5TOW0XPzNPuKA0YpFnsmS97gdKmA+VztM6itRJ8K7JJuU0VS3g==}
+  /vitepress/1.0.0-alpha.30_sass@1.56.1:
+    resolution: {integrity: sha512-CjIqKkGAuvoP2IWBFIbYWyiMSHSGYvjPy7eDkdftawguv5a8w4AjM95VV4Lhyacev4AFcgK23FViibRluBMePw==}
     hasBin: true
     dependencies:
       '@docsearch/css': 3.3.0
