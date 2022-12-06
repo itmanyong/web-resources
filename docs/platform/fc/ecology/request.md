@@ -156,3 +156,32 @@ title: 网络处理
         </tr>
     </tbody>
 </table>
+
+## Swr <ProjectBadge starts='vercel/swr' version='swr' />
+
+专注于为`React`提供`高效简捷` `依赖聚焦` `缓存重置` `验证轮询`等特性的`Hooks`库，内部对外提供请求使用中常见的状态定义,如 `loading` `数据data` `错误error`等，释放开发者的心智负担
+
+-   `官方文档` [中文](https://swr.vercel.app/zh-CN)
+-   `公网仓库` [Github](https://github.com/vercel/swr) | [Npm](https://www.npmjs.com/package/swr)
+-   `体验示例` [官方示例](https://swr.vercel.app/zh-CN/examples/basic)
+-   `支持度&兼容性`
+<table class='mini_table'>
+    <thead>
+        <tr>
+            <th>React</th>
+            <th>React-SSR</th>
+            <th>React-Native</th>
+            <th>React-SSG</th>
+            <th>React-ISR</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+        </tr>
+    </tbody>
+</table>
