@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.766e6bcf.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"platform/tp/plugin.md","lastUpdated":1670320973000}'),r={name:"platform/tp/plugin.md"};function o(p,n,s,c,i,l){return a(),e("div")}const m=t(r,[["render",o]]);export{_ as __pageData,m as default};
