@@ -66,7 +66,7 @@ const sidebar = {
                     link: '/platform/fc/ecology/css-in-js',
                 },
                 {
-                    text: '开箱即用Admin',
+                    text: '开箱即用',
                     link: '/platform/fc/ecology/admin',
                 },
             ],
