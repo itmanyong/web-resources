@@ -334,3 +334,27 @@ title: UI库-WEB
         </tr>
     </tbody>
 </table>
+
+## BalmUI <ProjectBadge starts='balmjs/balm-ui' version='balm-core' />
+
+`企业级交互` `丰富视觉` `Vue3` `Vue2` `常用指令、插件、工具` `主题定制` `谷歌设计风格` `组件独立` `高可定制化` `业务扩展组件`
+
+-   `官方文档` [英文](https://material.balmjs.com/guide/introduction) | [中文](https://material.balmjs.com/guide/introduction) | [Vue2-英文](https://v8.material.balmjs.com/#/guide/intro) | [Vue2-中文](https://v8.material.balmjs.com/#/guide/intro)
+-   `公网仓库` [Github](https://github.com/balmjs/balm-ui) | [Npm](https://www.npmjs.com/package/balm-core)
+-   `支持度&兼容性`
+<table class='mini_table'>
+    <thead>
+        <tr>
+            <th>Vue3</th>
+            <th>Vue2</th>
+            <th>Web</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+        </tr>
+    </tbody>
+</table>

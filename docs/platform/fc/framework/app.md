@@ -6,7 +6,7 @@ title: 移动端APP框架
 
 ::: tip [我要推荐](https://github.com/itmanyong/web-resources/edit/master/docs/platform/fc/framework/app.md)
 
--   严重影响原生移动APP的开发市场，在性能体验不是那么重要的情况下的首选方案
+-   严重影响原生移动 APP 的开发市场，在性能体验不是那么重要的情况下的首选方案
 
 :::
 
@@ -46,3 +46,10 @@ title: 移动端APP框架
 
 -   `官方文档` [英文](https://flutter.dev/) | [中文](https://flutter.cn/)
 -   `公网仓库` [Github](https://github.com/flutter/flutter)
+
+## Framework <ProjectBadge  starts='framework7io/framework7' />
+
+免费开源的提供超多具有原生外观的组件的可用于开发`移动` `桌面` `Web`的集中性框架，可与`Electron` `NW.js`等工具结合构建原生桌面应用，本身支持热门框架进行配合使用，包括:`React` `Vue` `Svelte`
+
+-   `官方文档` [英文](https://framework7.io/) | [Vue-英文](https://framework7.io/vue/) | [React-英文](https://framework7.io/react/) | [Svelte-英文](https://framework7.io/svelte/)
+-   `公网仓库` [Github](https://github.com/framework7io/framework7/)
