@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./app.2c294832.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"platform/fc/component/ui-mp.md","lastUpdated":1670345257000}'),o={name:"platform/fc/component/ui-mp.md"};function r(c,n,p,s,m,i){return a(),e("div")}const _=t(o,[["render",r]]);export{f as __pageData,_ as default};
