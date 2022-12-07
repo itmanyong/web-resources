@@ -89,7 +89,7 @@ title: UI库-小程序
 
 ## FirstUI <ProjectBadge starts='FirstUI/FirstUI' version='firstui-uni' />
 
-`部分组件收费` `依赖Uniapp` `微信小程序-原生` `Uniapp版本` `UI轻量` `色彩润丽` `积极迭代中` `文档清晰` `附带模板` `物料共建` `自建社区`
+`高级组件收费` `依赖Uniapp` `微信小程序-原生` `Uniapp版本` `UI轻量` `色彩润丽` `积极迭代中` `文档清晰` `附带模板` `物料共建` `自建社区`
 
 -   `官方文档` [官网-中文](https://www.firstui.cn/) | [Uniapp-中文](https://doc.firstui.cn/) | [微信原生-中文](https://wxdoc.firstui.cn/)
 -   `公网仓库` [Github](hhttps://github.com/FirstUI) | [Npm-Uniapp](https://www.npmjs.com/package/firstui-uni)

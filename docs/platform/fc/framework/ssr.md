@@ -58,7 +58,15 @@ title: 服务端渲染 SSR 框架
 
 ## Iles <ProjectBadge starts='ElMassimo/iles' version='create-ssr-app' />
 
-支持`Vue` `Preact` `React` `SolidJS` `Svelte`等方式编码，默认`零JS`的快速静态生成站点，路由、降级、PWA一应俱全
+支持`Vue` `Preact` `React` `SolidJS` `Svelte`等方式编码，默认`零JS`的快速静态生成站点，路由、降级、PWA 一应俱全
 
 -   `官方文档` [中文](https://iles.pages.dev/)
 -   `公网仓库` [Github](https://github.com/ElMassimo/iles) | [Npm](https://www.npmjs.com/package/iles)
+
+## Sapper <ProjectBadge starts='sveltejs/sapper' version='sapper' />
+
+`基于Svelte` `SEO友好` `无VDOM` `项目模板` `更好的性能` `更快的速度`
+
+-   `官方文档` [英文](https://sapper.svelte.dev/) | [中文](https://www.sapperjs.com/)
+-   `公网仓库` [Github](https://github.com/sveltejs/sapper) | [Npm](https://www.npmjs.com/package/sapper)
+-   `支持度&兼容性`

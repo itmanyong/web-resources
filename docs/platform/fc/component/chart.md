@@ -75,3 +75,29 @@ title: 图表集
         </tr>
     </tbody>
 </table>
+
+## AntV  <ProjectBadge starts='antvis' />
+
+`阿里出品` `种类齐全` `支持移动端` `覆盖面广` `总体质量偏上` `清晰标准` `文档健全` `各种类示例完备`
+
+-   `官方文档` [英文](https://antv.gitee.io/en) | [中文](https://antv.gitee.io/zh)
+-   `公网仓库` [Github](https://github.com/antvis)
+-   `支持度&兼容性`
+<table class='mini_table'>
+    <thead>
+        <tr>
+            <th>React</th>
+            <th>SSR</th>
+            <th>H5</th>
+            <th>其他(理论通用)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+        </tr>
+    </tbody>
+</table>
