@@ -10,6 +10,15 @@ title: 移动端APP框架
 
 :::
 
+## Fair <ProjectBadge  starts='wuba/fair' />
+
+`58自研`为Flutter设计的动态化框架，通过Fair Compiler工具对原生Dart源文件的自动转化，使项目获得动态更新Widget Tree和State的能力
+
+
+-   `官方文档` [英文](https://fair.58.com/) | [中文](https://fair.58.com/zh/)
+-   `公网仓库` [Github](https://github.com/wuba/fair)
+
+
 ## Hummer <ProjectBadge  starts='didi/Hummer' version='@hummer/cli' />
 
 `滴滴`出品支持使用`原生JS` `Vue` `React`开发一套代码可以同时支持编译为`Android`和`iOS`应用
