@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./app.2c294832.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"platform/tp/tool.md","lastUpdated":1670430956000}'),a={name:"platform/tp/tool.md"};function r(s,p,c,n,l,d){return o(),e("div")}const f=t(a,[["render",r]]);export{m as __pageData,f as default};
