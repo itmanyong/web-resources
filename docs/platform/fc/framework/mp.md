@@ -102,6 +102,43 @@ title: 小程序&跨端框架
     </tbody>
 </table>
 
+## Mpx <ProjectBadge starts='didi/mpx' version='@mpxjs/cli' />
+
+`滴滴出品`的使用`Vue语法` `高性能`的`增强型` `跨端`小程序框架，本身提供超多实用库,如[`请求库`](https://mpxjs.cn/api/extend.html#mpx-fetch) [`增强API`](https://mpxjs.cn/api/extend.html#api-proxy) [`页面桥接器`](https://mpxjs.cn/api/extend.html#webview-bridge) | [`提及分析工具`](https://mpxjs.cn/guide/advance/size-report.html)，支持 `Vue2/3`混合语法，`国际化` `分包` `状态管理`等常用工具都具备，相比原生，可以考虑一手这个库
+
+-   `官方文档` [中文](https://mpxjs.cn/) | [旧文档](https://didi.github.io/mpx/)
+-   `公网仓库` [Github](https://github.com/didi/mpx) | [Npm](https://www.npmjs.com/package/@mpxjs/cli)
+-   `支持度&兼容性`
+<table class='mini_table'>
+    <thead>
+        <tr>
+            <th rowspan='2'>H5</th>
+            <th colspan='7'>小程序</th>
+        </tr>
+        <tr>
+            <th>微信</th>
+            <th>百度</th>
+            <th>支付宝</th>
+            <th>字节跳动</th>
+            <th>快应用</th>
+            <th>JD</th>
+            <th>QQ</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+        </tr>
+    </tbody>
+</table>
+
 ## Chameleon <ProjectBadge starts='didi/chameleon' version='chameleon-tool' />
 
 `滴滴`出品的通过`多态协议`自定义`DSL`实现`一套代码多端多平台`运行效果高度一致的期望，不过感觉一直不温不火
@@ -240,10 +277,9 @@ title: 小程序&跨端框架
     </tbody>
 </table>
 
-
 ## Vue Mini <ProjectBadge starts='vue-mini/vue-mini' version='@vue-mini/wechat' />
 
-Vue Mini 是一个基于 Vue 3 的小程序开发库，它能让你用 Composition API 写小程序，就像写 Vue 3 一样。本身二次封装小程序，只是提供Vue3响应式能力
+Vue Mini 是一个基于 Vue 3 的小程序开发库，它能让你用 Composition API 写小程序，就像写 Vue 3 一样。本身二次封装小程序，只是提供 Vue3 响应式能力
 
 -   `官方文档` [中文](https://vuemini.org/guide/)
 -   `公网仓库` [Github](https://github.com/vue-mini/vue-mini) | [Npm](https://www.npmjs.com/package/@vue-mini/wechat)
@@ -265,7 +301,6 @@ Vue Mini 是一个基于 Vue 3 的小程序开发库，它能让你用 Compositi
         </tr>
     </tbody>
 </table>
-
 
 ## Wxa <ProjectBadge starts='WeBankFinTech/wxa' version='@wxa/cli2' />
 
@@ -294,10 +329,9 @@ Vue Mini 是一个基于 Vue 3 的小程序开发库，它能让你用 Compositi
     </tbody>
 </table>
 
-
 ## Goji <ProjectBadge starts='airbnb/goji-js' version='@goji/core' />
 
-一个可以让`React`代码运行在多个小程序平台上的框架,更新维护及时,截止统计已经支持React18超多能力
+一个可以让`React`代码运行在多个小程序平台上的框架,更新维护及时,截止统计已经支持 React18 超多能力
 
 -   `官方文档` [英文](https://goji.js.org/) | [中文](https://goji.js.org/zh/)
 -   `公网仓库` [Github](https://github.com/airbnb/goji-js) | [Npm](https://www.npmjs.com/package/@goji/core)
@@ -305,7 +339,8 @@ Vue Mini 是一个基于 Vue 3 的小程序开发库，它能让你用 Compositi
 <table class='mini_table'>
     <thead>
         <tr>
-            <th colspan='7'>小程序</th>
+            <th rowspan='2'>Web</th>
+            <th colspan='6'>小程序</th>
         </tr>
         <tr>
             <th>微信</th>
@@ -314,7 +349,41 @@ Vue Mini 是一个基于 Vue 3 的小程序开发库，它能让你用 Compositi
             <th>字节跳动</th>
             <th>QQ</th>
             <th>快应用</th>
-            <th>Web</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>❓</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>❓</th>
+        </tr>
+    </tbody>
+</table>
+
+## Nanachi <ProjectBadge starts='qunarcorp/anu' version='nanachi-cli' />
+
+以`Anu`为基的支持使用`React`语法进行开发最终编译为各端小程序的扩展框架，提供`脚手架` `内置UI库` `兼容性对比` `异步语法` `字体图标` `内置预处理器` `条件编译` `Hooks支持`
+
+-   `官方文档` [中文](http://ued.qunar.com/nanachi-doc/)
+-   `公网仓库` [Github](https://github.com/qunarcorp/anu) | [Npm](https://www.npmjs.com/package/nanachi-cli)
+-   `支持度&兼容性`
+<table class='mini_table'>
+    <thead>
+        <tr>
+            <th rowspan='2'>H5</th>
+            <th rowspan='2'>APP</th>
+            <th colspan='7'>小程序</th>
+        </tr>
+        <tr>
+            <th>微信</th>
+            <th>百度</th>
+            <th>支付宝</th>
+            <th>字节跳动</th>
+            <th>快应用</th>
         </tr>
     </thead>
     <tbody>
@@ -324,7 +393,7 @@ Vue Mini 是一个基于 Vue 3 的小程序开发库，它能让你用 Compositi
             <th>✔️</th>
             <th>✔️</th>
             <th>✔️</th>
-            <th>❓</th>
+            <th>✔️</th>
             <th>❓</th>
         </tr>
     </tbody>

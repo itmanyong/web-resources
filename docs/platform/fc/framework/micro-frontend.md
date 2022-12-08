@@ -45,3 +45,10 @@ title: 微前端
 -   `官方文档` [中文](https://wujie-micro.github.io/doc/)
 -   `公网仓库` [Github](https://github.com/Tencent/wujie) | [Npm](https://www.npmjs.com/package/wujie)
 -   `体验示例` [自定义地址](https://wujie-micro.github.io/doc/wujie/) | [Vue 主应用](https://wujie-micro.github.io/demo-main-vue/home) | [React 主应用](https://wujie-micro.github.io/demo-main-react/)
+
+## 无界 <ProjectBadge starts='single-spa/single-spa' version='single-spa' />
+
+`先进的` `启蒙级`微前端框架，提供超多热门框架捆绑插件，集成更轻松，还支持 CDN 等方式，`应用级懒加载` `生态成熟` `中心化`
+
+-   `官方文档` [英文](https://single-spa.js.org/) | [中文](https://zh-hans.single-spa.js.org/)
+-   `公网仓库` [Github](https://github.com/single-spa/single-spa) | [Npm](https://www.npmjs.com/package/single-spa) | [Npm-React](https://www.npmjs.com/package/single-spa-react) | [Npm-Vue](https://www.npmjs.com/package/single-spa-vue) | [Npm-Angular](https://www.npmjs.com/package/single-spa-angular) | [Npm-AngularJs](https://www.npmjs.com/package/single-spa-angularjs) | [Npm-Cycle](https://www.npmjs.com/package/single-spa-cycle) | [Npm-Ember](https://www.npmjs.com/package/single-spa-ember) | [Npm-Inferno](https://www.npmjs.com/package/single-spa-inferno) | [Npm-Preact](https://www.npmjs.com/package/single-spa-preact) | [Npm-Svelte](https://www.npmjs.com/package/single-spa-svelte) | [Npm-Riot](https://www.npmjs.com/package/single-spa-riot) | [Npm-Backbone](https://www.npmjs.com/package/single-spa-backbone) | [Npm-Dojo](https://www.npmjs.com/package/single-spa-dojo) | [Npm-Alpinejs](https://www.npmjs.com/package/single-spa-alpinejs) | [Npm-Html](https://www.npmjs.com/package/single-spa-html)

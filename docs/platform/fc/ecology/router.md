@@ -156,3 +156,25 @@ title: 路由器
         </tr>
     </tbody>
 </table>
+
+## React Navigation <ProjectBadge starts='sveltejs/sapper' version='@react-navigation/native' />
+
+`React Native专属` `开箱即用` `iOS&安卓定制动画` `完全可定制` `完整文档` `状态持久化` `Redux/Mobx深度集成` `配套开发工具` `挂钩齐全`
+
+-   `官方文档` [英文](https://reactnavigation.org/) | [中文](https://www.reactnavigation.org.cn/) | [V5-英文](https://reactnavigation.org/docs/5.x/getting-started)
+-   `公网仓库` [Github](https://github.com/react-navigation/react-navigation) | [Npm](https://www.npmjs.com/package/@react-navigation/native) | [生态仓库 Github](https://github.com/react-navigation)
+-   `支持度&兼容性`
+<table class='mini_table'>
+    <thead>
+        <tr>
+            <th>Svelte</th>
+            <th>SSR</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>✔️</th>
+            <th>✔️</th>
+        </tr>
+    </tbody>
+</table>
