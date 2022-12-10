@@ -16,7 +16,7 @@ const config = {
         // algolia检索-https://docsearch.algolia.com/
         algolia: {
             appId: 'MSTIXL0W57',
-            apiKey: 'cb20c75061ad7a491547d2ba19d1624e',
+            apiKey: 'e8a3be224fd623da33f491fc96973486',
             indexName: 'web-resources'
         },
         repo: 'itmanyong/web-resources',
