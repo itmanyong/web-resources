@@ -30,3 +30,9 @@ title: 桌面端PC框架
 
 -   `官方文档` [英文](https://tauri.app/) | [中文](https://tauri.app/zh-cn/)
 -   `公网仓库` [Github](https://github.com/tauri-apps/tauri) | [Npm](https://www.npmjs.com/package/@tauri-apps/cli)
+
+## Pake <ProjectBadge starts='tw93/Pake' version='pake-cli' />
+
+很简单的用`Rust`打包网页生成很小的`桌面App`，支持 `Mac` `Windows` `Linux` 系统,底层基于`Rust Tauri`,相比`Electron`套壳打包小近`40倍`，内部优化了透传、沉浸式、拖动等特性
+
+-   `公网仓库` [Github](https://github.com/tw93/Pake) | [Npm](https://www.npmjs.com/package/pake-cli)
