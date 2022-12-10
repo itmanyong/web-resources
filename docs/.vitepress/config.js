@@ -17,7 +17,10 @@ const config = {
         algolia: {
             appId: 'MSTIXL0W57',
             apiKey: 'cb20c75061ad7a491547d2ba19d1624e',
-            indexName: 'web-resources'
+            indexName: 'web-resources',
+            searchParameters: {
+                facetFilters: ['tags:guide,api'],
+            },
         },
         repo: 'itmanyong/web-resources',
         docsRepo: 'itmanyong/web-resources',
