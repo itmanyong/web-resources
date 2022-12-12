@@ -223,3 +223,37 @@ title: CSS-in-JS
         </tr>
     </tbody>
 </table>
+
+## Vanilla Extract CSS <ProjectBadge starts='vanilla-extract-css/vanilla-extract' version='@vanilla-extract/css' />
+
+`TS` `局部作用域` `无视框架` `变量主题` `构建时CSS静态化` `零运行时` `类型安全` `内置1KB-动态绑定` `高频CSS语法支持` `CSS辅助函数` `集成热门捆绑包`
+
+-   `官方文档` [英文](https://vanilla-extract.style/)
+-   `公网仓库` [Github](https://github.com/vanilla-extract-css/vanilla-extract) | [生态仓库 Github](https://github.com/vanilla-extract-css) | [Npm](https://www.npmjs.com/package/@vanilla-extract/css)
+-   `支持度&兼容性`
+<table class='mini_table'>
+    <thead>
+        <tr>
+            <th>Vite</th>
+            <th>Next.js</th>
+            <th>Webpack</th>
+            <th>Rollup</th>
+            <th>Esbuild</th>
+            <th>Gatsby</th>
+            <th>各类前端框架</th>
+            <th>小程序</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+        </tr>
+    </tbody>
+</table>
