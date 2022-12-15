@@ -59,6 +59,29 @@ title: 状态管理
     </tbody>
 </table>
 
+## Harlem <ProjectBadge starts='vuejs/pinia' version='pinia' />
+
+`Vue3专属` `不可变状态` `突变更改` `可预测审计` `轻量全局摇树支持` `无依赖` `跟踪回溯重做快照` `TS安全类型` `支持Vue devtools` `多实例不冲突`
+
+-   `官方文档` [英文](https://harlemjs.com/)
+-   `公网仓库` [Github](https://github.com/andrewcourtice/harlem) | [Npm](https://www.npmjs.com/package/harlem)
+-   `体验示例` [官方示例](https://www.npmjs.com/package/harlem)
+-   `支持度&兼容性`
+<table class='mini_table'>
+    <thead>
+        <tr>
+            <th>Vue3</th>
+            <th>SSR</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>✔️</th>
+            <th>✔️</th>
+        </tr>
+    </tbody>
+</table>
+
 ## Vuex <ProjectBadge starts='vuejs/vuex' version='vuex' />
 
 `Vue`官配的状态管理库，相信很多人爱不释手，但丝毫不影响推荐你使用新的替代品 `Pinia`
