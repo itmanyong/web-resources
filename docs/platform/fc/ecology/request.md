@@ -185,3 +185,28 @@ title: 网络处理
         </tr>
     </tbody>
 </table>
+
+## Wretch <ProjectBadge starts='elbywan/wretch' version='wretch' />
+
+`基于fetch` `错误包装` `标头反序列化` `可重用实例` `插件中间件` `浏览器、Node、Deno` `TS类型安全` `缓存延迟重发`
+
+-   `公网仓库` [Github](https://github.com/elbywan/wretch) | [Npm](https://www.npmjs.com/package/wretch)
+-   `支持度&兼容性`
+<table class='mini_table'>
+    <thead>
+        <tr>
+            <th>浏览器</th>
+            <th>Node</th>
+            <th>Deno</th>
+            <th>其他</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>❓</th>
+        </tr>
+    </tbody>
+</table>

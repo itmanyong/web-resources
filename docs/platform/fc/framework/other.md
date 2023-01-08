@@ -30,3 +30,10 @@ title: 其他框架
 
 -   `官方文档` [中文](https://aoife.writeflowy.com/)
 -   `公网仓库` [Github](https://github.com/ymzuiku/aoife) | [Npm](https://www.npmjs.com/package/create-aoife-app)
+
+## Plasmo <ProjectBadge starts='PlasmoHQ/plasmo' version='plasmo' />
+
+`浏览器插件` `React开发` `TS` `自动化manifest.json生成` `热重载` `支持自动部署` `交互通信封装` `存储封装` `文档健全` `维护及时`
+
+-   `官方文档` [英文](https://docs.plasmo.com/)
+-   `公网仓库` [Github](https://github.com/PlasmoHQ/plasmo) | [Npm](https://www.npmjs.com/package/plasmo)

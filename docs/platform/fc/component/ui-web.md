@@ -358,3 +358,33 @@ title: UI库-WEB
         </tr>
     </tbody>
 </table>
+
+## Mantine <ProjectBadge starts='mantinedev/mantine' version='@mantine/core' />
+
+`130+精致组件` `React` `超多构建集成` `提供hooks/form/dates/prise/modals等无框架绑定库` `精致UI` `效率视觉` `主题定制` `暗黑模式` `精致交互` `难得优品` `超高性能`
+
+-   `官方文档` [英文](https://mantine.dev/)
+-   `公网仓库` [Github](https://github.com/mantinedev/mantine) | [Npm](https://www.npmjs.com/package/@mantine/core)
+-   `支持度&兼容性`
+<table class='mini_table'>
+    <thead>
+        <tr>
+            <th>React</th>
+            <th>SSR</th>
+            <th>Web</th>
+            <th>Next</th>
+            <th>Vite</th>
+            <th>Remix</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+            <th>✔️</th>
+        </tr>
+    </tbody>
+</table>

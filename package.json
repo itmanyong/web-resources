@@ -31,7 +31,7 @@
   "author": "itmanyong",
   "license": "MIT",
   "dependencies": {
-    "vitepress": "1.0.0-alpha.30"
+    "vitepress": "1.0.0-alpha.35"
   },
   "repository": {
     "type": "git",
