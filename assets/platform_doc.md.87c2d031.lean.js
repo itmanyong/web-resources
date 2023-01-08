@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as r}from"./app.63ca8772.js";const u=JSON.parse('{"title":"文档&学习","description":"","frontmatter":{"title":"文档&学习"},"headers":[],"relativePath":"platform/doc.md","lastUpdated":1673192257000}'),o={name:"platform/doc.md"},s=r("",2),c=[s];function i(l,n,_,d,p,h){return a(),t("div",null,c)}const f=e(o,[["render",i]]);export{u as __pageData,f as default};

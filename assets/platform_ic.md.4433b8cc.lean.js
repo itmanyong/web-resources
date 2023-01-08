@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as r}from"./app.63ca8772.js";const u=JSON.parse('{"title":"面试&收藏","description":"","frontmatter":{"title":"面试&收藏"},"headers":[],"relativePath":"platform/ic.md","lastUpdated":1673192257000}'),s={name:"platform/ic.md"},o=r("",2),i=[o];function c(l,n,_,d,p,h){return a(),t("div",null,i)}const f=e(s,[["render",c]]);export{u as __pageData,f as default};
